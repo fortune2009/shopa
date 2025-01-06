@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "236165149193",
+    "project_id": "shopa-commerce",
+    "storage_bucket": "shopa-commerce.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:236165149193:android:8ab79a7817484e7d967ed8",
+        "android_client_info": {
+          "package_name": "com.tezda.shopa.shopa"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvkwcReOiqPThN7UgnyFIbPmdmkE4w4pc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
